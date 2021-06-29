@@ -1,5 +1,5 @@
-## CSCE _ _ _: _ _ _
-Code Written for _ _ _ CSCE _ _ _ Class for _ _ _ of _ _ _.
+## CSCE 330: Programming Language Structures
+Code Written for Dr. James O'Reilly CSCE 330 class for Fall of 2021.
 
 **Code for Archival Purposes Only**
 
