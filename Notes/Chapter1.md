@@ -36,3 +36,20 @@ What makes a programming language successful
     - Uses inheritance
     - Based off Imperative
     - Java/ C++ / C#
+
+## Von Neumann Architecture
+    - Memory commuicates insuctions and data to the CPU
+    - CPU communicates results to the memory
+    - Inside CPU, the Arithmetic logic unit (ALU) performs arithmetic operations
+    - The Control unit (CU) performs control operations
+    - The CPU also comunicates with the I/O unit (I/O)
+
+Other Architectures
+- Harvard which seperatee data and programs memory
+- Functional Architecture (Lambda Machines, Magos reduction machine)
+- Logic Archtectures (Prolog in 5th gen project)
+- All alternatives have failed commercially
+
+## Language Design Goals
+
+= Reliability, Maintainability, and Efficiency
