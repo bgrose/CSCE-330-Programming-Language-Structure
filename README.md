@@ -3,7 +3,7 @@ Code Written for Dr. James O'Reilly CSCE 330 class for Fall of 2021.
 
 **Code for Archival Purposes Only**
 
-**Grade: _ _ _**
+**Grade: A**
 
 Topics Covered: 
 * Categorize a language as imperative (procedural), functional (applicative) or declarative (logic).
